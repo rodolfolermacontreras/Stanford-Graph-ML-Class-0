@@ -12,7 +12,7 @@ We provide below instructions to setup the environment used throughout this clas
 <br />
 
 
-### Step 1: Make sure you have Miniconda installed. More info about Miniconda installation on MacOS can be found [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/macos.html).
+### Step 1: Make sure you have Miniconda installed. More info about Miniconda installation for your specific platform can be found [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install).
 
 <br />
 
